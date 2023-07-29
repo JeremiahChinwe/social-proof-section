@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution here](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub?share=true)
+- Live Site URL: [Deployed to Vercel](https://social-proof-section-nine-murex.vercel.app/)
 
 ## My process
 
